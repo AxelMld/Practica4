@@ -25,7 +25,7 @@ woki : https://wokwi.com
 
 ## Conexión 
 
-![]()
+![](https://github.com/AxelMld/Practica4/blob/main/Conexion.png?raw=true)
 
 
 ## Código utilizado 
@@ -127,24 +127,24 @@ Serial.println(distance);
 
 ## 1. Resultado con un rango de distancia de 3 a 100 
 
-![]()
+![](https://github.com/AxelMld/Practica4/blob/main/resultado%201.png?raw=true)
 
 ## 2. Resultado con un rango de distancia de 100 a 200 
 
-![]()
+![](https://github.com/AxelMld/Practica4/blob/main/resultado%202.png?raw=true)
 
 ## 3. Resultado con un rango de distancia de 200 a 300 
 
-![]()
+![](https://github.com/AxelMld/Practica4/blob/main/resultado%203.png?raw=true)
 
 ## 4. Resultado con un rango de distancia mayor a 300 
 
-![]()
+![](https://github.com/AxelMld/Practica4/blob/main/resultado%204.png?raw=true)
 
 
 ## 4. Resultado con un rango de distancia mayor  a 400 o menor a 3 
 
-![]()
+![](https://github.com/AxelMld/Practica4/blob/main/resultado%205.png?raw=true)
 
 
 # Creditos 
